@@ -1,0 +1,11 @@
+
+Prerequisites:
+> Running Local nodejs instance. (Find more at (http://nodejs.org))
+> Running mongodb instance. (Find more at (http://mongodb.org)) 
+> Create database as "nodedb" & collection as users = {email: "test@email.com", password: "password", sex: "male"}
+> install mongojs, a nodejs module for mongodb as follows
+	npm install mongojs
+
+Locate this 'nodejs-mongoapp' folder & run below command in shell prompt:	
+	node helloworld.js
+	
