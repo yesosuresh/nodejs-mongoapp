@@ -7,5 +7,5 @@ Prerequisites:
 	npm install mongojs
 
 Locate this 'nodejs-mongoapp' folder & run below command in shell prompt:	
-	node helloworld.js
+	node app.js
 	
